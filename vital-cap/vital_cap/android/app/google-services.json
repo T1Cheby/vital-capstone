@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713512255564",
+    "project_id": "oucruvitalcap",
+    "storage_bucket": "oucruvitalcap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713512255564:android:515ad5e65116cea80bf4e9",
+        "android_client_info": {
+          "package_name": "oucru.org.vital_cap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_yEWLir7XXAGp3oRbb_PxHpsafj1hag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
